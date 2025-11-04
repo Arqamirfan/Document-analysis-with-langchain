@@ -45,18 +45,47 @@ The system utilizes natural language processing (NLP) to extract key insights, s
 | **Processing Speed** | 0.8s per query |
 | **Memory Usage** | 512MB |
 
+### Result # 01:
+<img width="532" height="188" alt="image" src="https://github.com/user-attachments/assets/d969a1dc-ebf1-484f-961c-d7fb50609cac" />
+
+
+### Result # 02:
+<img width="550" height="193" alt="image" src="https://github.com/user-attachments/assets/776d8fa3-355e-4824-b03e-d806a232f924" />
+
+
+### result # 03:
+<img width="559" height="68" alt="image" src="https://github.com/user-attachments/assets/07910f6a-7a17-41eb-bf55-491d61189ef2" />
+
+
 ### Conclusion
 The AI Text Analysis Tool successfully automates the extraction of meaningful information from unstructured text.  
 With high accuracy and speed, it demonstrates strong potential for integration in large-scale applications.
+
+
+### Usage:
+python main.py
+
+
+### To generate the PDF report:
+python generate_report.py
+
+
+
+---
+
+Would you like me to **generate this README as a downloadable `.md` file** too?
+
 
 ---
 
 ## 🧩 Installation
 
 ```bash
+
 # Clone this repository
 git clone https://github.com/your-username/document-analysis-with-langchain.git
 cd document-analysis-with-langchain
 
 # Install dependencies
 pip install -r requirements.txt
+
